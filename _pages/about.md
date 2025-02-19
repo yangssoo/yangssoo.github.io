@@ -29,10 +29,9 @@ latest_posts:
 
 I am currently a Post-Doc in Humanoids and Human Centered Mechatronics (HHCM) at IIT directed by Nicolaos Tsagarakis.
 
-Previously, I obtained my Bachelar from Seoul National Univserit in Mechanical and Aerospace Engineering department from Seoul Natiuonal University and and M. S. and Ph. D degrees from in [INRoL](http://inrol.snu.ac.kr) under the guidance of Prof. Dongjun Lee, 
+Previously, I obtained my Bachelar from Seoul National Univserit in Mechanical and Aerospace Engineering department from Seoul Natiuonal University and and M. S. and Ph. D degrees from in [INRoL](http://inrol.snu.ac.kr) under the guidance of Prof. Dongjun Lee,
 
-
- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 

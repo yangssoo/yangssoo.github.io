@@ -171,7 +171,7 @@ Here is a list of the main components that you may want to delete, and how to do
 
 ### Removing the blog page
 
-To remove the blog, you have to:
+<!-- To remove the blog, you have to:
 
 - delete [\_posts](_posts/) directory
 - delete blog page [\_pages/blog.md](_pages/blog.md)
@@ -188,7 +188,7 @@ You can also:
 - delete [\_layouts/archive-year.liquid](_layouts/archive-year.liquid)
 - delete [\_plugins/external-posts.rb](_plugins/external-posts.rb)
 - remove the `jekyll-archives` gem from the [Gemfile](Gemfile) and the `plugins` section in [\_config.yml](_config.yml)
-- remove the `classifier-reborn` gem from the [Gemfile](Gemfile)
+- remove the `classifier-reborn` gem from the [Gemfile](Gemfile) -->
 
 ### Removing the news section
 
